@@ -7,5 +7,3 @@ var Grub = function () {
 Grub.prototype.eat = function(value){
 	this.eat = value
 };
-
-var grub = new Grub
